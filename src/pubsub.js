@@ -1,9 +1,3 @@
-/*
-      publish
-      subscribe
-
-
-     */
 var PubSub = {},
     messages = {},
     lastUid = -1,
