@@ -34,7 +34,7 @@
 
 ## 下载
 
-[**Download**](https://github.com/jjvvv/doubanfm/releases/latest)
+[**Download**](https://github.com/mars-men/Douban.FM/releases/tag/1.0.0)
 
 
 ## 感谢
