@@ -1,7 +1,7 @@
 
 # FM 
 
-
+修复 JJVvV/doubanfm一些BUG，打包成window的exe文件。在window上听听歌不错，可直接下载打开，绿色版~。O(∩_∩)O~
 
 这是一个基于 [electron](https://github.com/electron/electron) 开发的桌面端[豆瓣FM](https://douban.fm).
 
